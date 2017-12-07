@@ -1,0 +1,17 @@
+{
+  "name": "github-issues",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "bluebird": "~3.5.0",
+    "csv": "~1.1.1",
+    "csv-stringify": "latest",
+    "dateformat": "~2.0.0",
+    "github": "~9.2.0",
+    "lodash": "~4.17.4",
+    "uppercamelcase": "~3.0.0"
+  }
+}
